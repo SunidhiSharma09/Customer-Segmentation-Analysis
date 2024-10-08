@@ -1,5 +1,5 @@
 ### Customer Segmentation Analysis
-- Live dashboard: https://app.powerbi.com/reportEmbed?reportId=c7eb66fc-e75e-4190-ac44-e177679486bf&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd
+- Live dashboard: [https://app.powerbi.com/reportEmbed?reportId=c7eb66fc-e75e-4190-ac44-e177679486bf&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd](https://app.powerbi.com/view?r=eyJrIjoiNmNjNmQ5MjEtNTc3OS00MmQwLTg2OTYtYzBiOWMyOGJiZmI4IiwidCI6ImYzMmIyMzgwLWU0NzMtNDY5MS04YmE5LTcxOTE1ZTBhMjBjZCJ9&pageName=6837edfa9b90521b88ee)
 #### Domain: e-commerce
 #### Introduction:
 In today's highly competitive market, understanding customer behavior and maximizing the lifetime value of each customer is crucial for businesses
